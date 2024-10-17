@@ -6,7 +6,7 @@ License:	Creative Commons Attribution-ShareAlike
 Group:		Graphical desktop/KDE
 # Also http://kde-look.org/content/show.php?content=148276
 # and http://kde-look.org/content/show.php/SteampunK+Light+Color+Scheme?content=155868
-Url:		http://kde-look.org/content/show.php?content=148277
+Url:		https://kde-look.org/content/show.php?content=148277
 # Repack from all sources:
 Source:		SteampunK_Colors.tar.gz
 Requires:	kdebase4-workspace >= 2:4.10
